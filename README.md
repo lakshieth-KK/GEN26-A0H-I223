@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I223
 ### Team Details
-#### **Team Name** <<Syntax Terror >> <br/>
+#### **Team Name** <<Insert Syntax Terror >> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |  🏫 Department / Programme |Hosteller/Day scholar |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:--------------------------:|:-----------------:   |
